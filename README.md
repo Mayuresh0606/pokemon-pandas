@@ -1,1 +1,1 @@
-# pokemon-pandas
+This project involves analyzing a Pokemon dataset using Python's pandas library to extract insights.The dataset contains detailed information on over 800 Pokemon, including features like their names, types, base stats (Attack, Defense, Speed, HP, Special Attack, Special Defense,Generation)and Legendary.
